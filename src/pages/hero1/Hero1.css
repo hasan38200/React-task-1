@@ -1,0 +1,34 @@
+.Hero1{
+    background: linear-gradient(to right, #fd6039 40%, #f93e5c 70%);
+    position: relative;
+    top: -101px;
+    height: 75vh;
+    display: flex;
+    padding: 150px 50px;
+    
+}
+
+.Hero1 .content{
+    width: 50%;
+}
+
+.Hero1 .content h1{
+  font-size: 40px;
+}
+
+.Hero1 .content button{
+    padding: 8px;
+    border-radius:  100px;
+    background-color: transparent;
+    color: inherit;
+    border: 2px solid;
+}
+
+.Hero1 .Image{
+width: 50%;
+}
+
+.Hero1 .Image img{
+    display: inline-block;
+    width: 70%;
+}

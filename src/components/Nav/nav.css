@@ -1,0 +1,23 @@
+nav{
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    z-index: 2;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+}
+
+nav ul li{
+    
+    padding: 10px;
+}
+
+nav ul .download{
+    border: 2px solid;
+    border-radius: 50px 50px 50px 50px;
+}
